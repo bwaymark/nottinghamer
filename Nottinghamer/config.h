@@ -123,8 +123,8 @@
 //  Other councils may use different providers — check your
 //  council website for a bin reminder or calendar service.
 // ============================================================
-#define BINS_PLACE_ID    "CA0889C8-DBFF-11EE-96DB-AC388EA0F4B8"
-#define BINS_SERVICE_ID  "50003"
+#define BINS_PLACE_ID    ""
+#define BINS_SERVICE_ID  ""
 
 // ============================================================
 //  BUS DEPARTURES (Nottingham City Transport via crudworks)
@@ -141,8 +141,8 @@
 //
 //  BUS_STOP_NAME is just a display label shown on screen.
 // ============================================================
-#define BUS_STOP_ID    "3390FF03"
-#define BUS_STOP_NAME  "Beech Ave"
+#define BUS_STOP_ID    ""
+#define BUS_STOP_NAME  ""
 
 // ============================================================
 //  WORLD CLOCK
