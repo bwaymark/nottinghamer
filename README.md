@@ -6,6 +6,8 @@ A local information display for the **LilyGO T-Display S3** (ESP32-S3). Eight sc
 ![Arduino](https://img.shields.io/badge/IDE-Arduino-teal)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Weather](images/IMG_4371.jpeg)
+
 ---
 
 ## Screens
