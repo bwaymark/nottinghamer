@@ -25,7 +25,6 @@ A local information display for the **LilyGO T-Display S3** (ESP32-S3). Eight sc
 **Button 0** (left) = previous screen
 
 ---
-
 ## Hardware
 
 - **LilyGO T-Display S3** — [LilyGO on AliExpress](https://www.aliexpress.com/item/1005004496543604.html) or the [LilyGO GitHub](https://github.com/Xinyuan-LilyGO/T-Display-S3)
@@ -314,6 +313,19 @@ The Nottinghamer is designed for Nottingham but most screens are configurable:
 - **Bins**: any address covered by a ReCollect-powered council
 - **Bus**: NCTx Nottingham only (would need code changes for other operators)
 - **Clock**: any four cities
+
+---
+
+## The Nottinghamer in Action
+
+![Weather](images/IMG_4371.jpeg)
+![Football](images/IMG_4372.jpeg)
+![Panthers](images/IMG_4373.jpeg)
+![Cricket](images/IMG_4374.jpeg)
+![Motorpoint Arena](images/IMG_4375.jpeg)
+![Bin Collections](images/IMG_4376.jpeg)
+![Bus Departures](images/IMG_4377.jpeg)
+![World Clock](images/IMG_4378.jpeg)
 
 ---
 
